@@ -53,7 +53,7 @@ From the word-cloud visual, the most in-demand Skills are - Strong communication
 
 ### 5.  Experience Level Requirements
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/906859f8-96bd-4f3e-b90b-2a5c028fa001.png" height="450" width="330"> <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/e27f3f8e-aafe-48eb-aac8-6b89f081cb5b.png" height="450" width="330"> <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/5cf03350-2ccc-4f4d-bcbf-d174df5f24f6.png" height="450" width="330">
-From the above Drill-down Clustered column chart visuals, it is evident that the Data Scientist Job role is the most popular Job role among the applicants. Also, for Data Scientist, Product Manager & Human Resources Business Partner roles, Mid-Senior Level experience level is preferable, while for Financial Analyst & Data Scientist roles, Entry Level & Executive level experience is also preferable.
+<br>From the above Drill-down Clustered column chart visuals, it is evident that the Data Scientist Job role is the most popular Job role among the applicants. Also, for Data Scientist, Product Manager & Human Resources Business Partner roles, Mid-Senior Level experience level is preferable, while for Financial Analyst & Data Scientist roles, Entry Level & Executive level experience is also preferable.
 <br><br>
 
 ### 6. Contract & Work Arrangement Analysis
