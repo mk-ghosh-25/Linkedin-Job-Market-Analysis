@@ -4,7 +4,7 @@
 Linkedin Job Market Analysis provides a valuable insights for Jobs available on Linkedin. It provides comprehensive understanding of market trends, in demand skills, popular industries & companies hiring, geographical analysis & predictive modelling.The goal of this project is to provide a comprehensive framework for Data Analysis to derive valuable Insights into Job Market Dynamics on Linkedin platform in India.
 <br><br><br>
 
-## Business Requirements-
+## Business Requirements
 To Present a Visualizing report in Power BI that reflects the metrics in Linkedin Job market & other Key Performance Indicators (KPIs) & to provide an Insights on Linkedin Job Market trends that are valuable for job seekers & Employers. The analysis I conducted for this project are as follows:-
 * Job Market Trends
 * Popular Industries & Companies
@@ -18,7 +18,7 @@ To Present a Visualizing report in Power BI that reflects the metrics in Linkedi
 * Predictive Modelling
 <br><br><br>
 
-## Insights-
+## Insights
 ### 1. Job Market Trends
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/4dcc61fa-e81e-4e2a-9380-fbb1155f9e28.png" height="450" width="1200">
 From the visual, the top 5 industries in terms of job postings being released are IT Services & IT Consulting, Software Development, Staffing & Recruiting, Technology (Information & Internet) & Financial Services. While, Bengaluru & Mumbai region has the most Job postings. During the period of March-2023 to February-2024 of the dataset, it is seen from the analysis that the Job postings have grown exponentially from the year 2023 compared to first two months of 2024.
