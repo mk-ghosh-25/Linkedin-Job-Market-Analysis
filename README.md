@@ -51,19 +51,19 @@ The top 5 states with highest Job openings are - Karnataka with 224 job openings
 From the word-cloud visual, the most in-demand Skills are - Strong communication skills, Data Analysis, Python, Software development & management , while few emerging skills are - Excel, marketing, Sales, AI, HR, talent acquisition.
 <br><br>
 
-### 5.  Experience Level Requirements
+### 5)  Experience Level Requirements
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/906859f8-96bd-4f3e-b90b-2a5c028fa001.png" height="450" width="330"> <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/e27f3f8e-aafe-48eb-aac8-6b89f081cb5b.png" height="450" width="330"> <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/5cf03350-2ccc-4f4d-bcbf-d174df5f24f6.png" height="450" width="330">
 <br>From the above Drill-down Clustered column chart visuals, it is evident that the Data Scientist Job role is the most popular Job role among the applicants. Also, for Data Scientist, Product Manager & Human Resources Business Partner roles, Mid-Senior Level experience level is preferable, while for Financial Analyst & Data Scientist roles, Entry Level & Executive level experience is also preferable.
 <br><br>
 
-### 6. Contract & Work Arrangement Analysis
+### 6) Contract & Work Arrangement Analysis
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/c936fe5a-b105-43e5-b37d-8d775a5be80b.png" height="450" width="1200">
 Most of the job postings are Full-time contract (769), followed by Contract based jobs (10), Internship(9), Part-time jobs (3), Other contract type jobs (1), Temporary jobs (1) and there are 64 jobs whose contract data is Not-available.
 
 There are a total of 121 Work types & out of those 153 are of Engineering & Information Technology work type (43.22%), Human Resources - 54(15.25%), Sales & Business Development - 51(14.41%), Finance & Sales - 50(14.12%) & Information Technology - 46(12.99%).
 <br><br>
 
-### 7.  Recently posted Job Analysis
+### 7)  Recently posted Job Analysis
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/ae938fc3-18e9-49ae-ab13-961f1567ee95.png" height="450" width="1200">
 Of the total 857 job postings, 394 jobs(45.97%) are recently posted jobs & also the vast number of Job applications received by the companies are also very recent, with 17,495 job applications received are within 1 week of the Job posted, 7616 job applications are those which are posted just 1 day ago. So, the trends clearly shows that most number of Job applications are received within the Posting of the Job on Linkedin.
 <br><br>
