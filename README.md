@@ -19,7 +19,7 @@ To Present a Visualizing report in Power BI that reflects the metrics in Linkedi
 <br><br><br>
 
 ## Insights
-### 1. Job Market Trends
+### 1) Job Market Trends
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/4dcc61fa-e81e-4e2a-9380-fbb1155f9e28.png" height="450" width="1200">
 From the visual, the top 5 industries in terms of job postings being released are IT Services & IT Consulting, Software Development, Staffing & Recruiting, Technology (Information & Internet) & Financial Services. While, Bengaluru & Mumbai region has the most Job postings. During the period of March-2023 to February-2024 of the dataset, it is seen from the analysis that the Job postings have grown exponentially from the year 2023 compared to first two months of 2024.
 <br><br>
@@ -35,18 +35,18 @@ On drilling-down the visual, we get continuous time period month-wise & quarter-
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/6b7d3d1e-a2db-4281-a2e2-af56799299a9.png">
 <br>
 
-### 2. Popular Industries & Companies
+### 2) Popular Industries & Companies
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/c4f44c32-6444-4cf4-bda4-001a4f71aedb.png" height="450" width="1200">
 This visuals shows the Top Industries & Companies that are hiring in India via Linkedin platform. IT Services & IT Consulting is the sector with highest job postings of 81, while Tata Cummins is the company that received the most job applications - 20.
 <br><br>
 
-### 3. Geographical Analysis
+### 3) Geographical Analysis
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/8dce8328-47c3-4248-9958-04f35b766d75.png" height="450" width="1200">
 The top 5 states with highest Job openings are - Karnataka with 224 job openings, followed by Maharashtra with 193, Haryana - 82, Telangana - 57 & U.P with 44 job openings. While, Bengaluru is the city with highest job openings at 178 openings, followed by Mumbai with 110 job openings, followed by Gurugram (56), Pune (56) & Hyderabad (51).
 <br>From the Geographical visual, it is clear that there is a regional disparity in terms of job availability. The states of Karnataka, Maharashtra, Delhi NCT region has the highest job postings, while there is limited to no job postings in the states of Jammu-Kashmir, Ladakh, Himachal Pradesh, Odisha & the North-eastern states.
 <br><br>
 
-### 4. Skill Demand
+### 4) Skill Demand
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/49d4c0d8-983f-4016-93f6-c2ab2ae51d16.png" height="450" width="1200">
 From the word-cloud visual, the most in-demand Skills are - Strong communication skills, Data Analysis, Python, Software development & management , while few emerging skills are - Excel, marketing, Sales, AI, HR, talent acquisition.
 <br><br>
