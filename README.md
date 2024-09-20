@@ -68,19 +68,19 @@ There are a total of 121 Work types & out of those 153 are of Engineering & Info
 Of the total 857 job postings, 394 jobs(45.97%) are recently posted jobs & also the vast number of Job applications received by the companies are also very recent, with 17,495 job applications received are within 1 week of the Job posted, 7616 job applications are those which are posted just 1 day ago. So, the trends clearly shows that most number of Job applications are received within the Posting of the Job on Linkedin.
 <br><br>
 
-### 8. Application Count Analysis
+### 8) Application Count Analysis
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/9adc2a46-efa4-4e20-b518-b816f461aef8.png">
 The total number of Job postings have been 857 and for 857 job postings, the total number of Job Applications received are 1,01,219. Tata Cummins Company have released the most 15 job postings, followed by Freshworks (7 job postings), Eazy ERP Technologies (6 job postings), Microsoft(6 job postings) & so on.<br><br>
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/55676327-1377-4ee2-b0ce-c6ee7b500933.png">
 The total number of Applications received are 1,01,129 & Infosys have received the most Applications(1000), followed by Tata Cummins(997), Freshworks(931), Valeo(925), Procter & Gamble(852).
 <br><br>
 
-### 9. Job Description Analysis
+### 9) Job Description Analysis
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/7c1425f1-02c7-4243-b652-687a13038b7b.png" height="450" width="1200">
 The Job-Description Analysis shows the common keywords in Job Descriptions, some of which are - and, the, with, while the most common Skills are - HR, communication skills, Data analysis, Machine Learning, problem understanding, systems solutions etc.
 <br><br>
 
-### 10. Predictive Modelling
+### 10) Predictive Modelling
 <img align= "center" src ="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/40d78e84-0b8e-4dac-ab6f-fe491db87f84.png" height="450" width="1200">
 Here, Predictive Modelling is used to anticipate the Job market dynamics for the upcoming months/years. The Predictive Modelling shows the forecast for the upcoming months of the number of job postings to be released based on the data present. The forecast shows that there might be a gradual increase in Job postings since March-2024.
 <br><br><br>
