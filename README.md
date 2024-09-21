@@ -4,7 +4,7 @@
 Linkedin Job Market Analysis provides a valuable insights for Jobs available on Linkedin. It provides comprehensive understanding of market trends, in demand skills, popular industries & companies hiring, geographical analysis & predictive modelling.The goal of this project is to provide a comprehensive framework for Data Analysis to derive valuable Insights into Job Market Dynamics on Linkedin platform in India.
 <br><br><br>
 
-## Business Requirements
+## Business Requirements 
 To Present a Visualizing report in Power BI that reflects the metrics in Linkedin Job market & other Key Performance Indicators (KPIs) & to provide an Insights on Linkedin Job Market trends that are valuable for job seekers & Employers. The analysis I conducted for this project are as follows:-
 * Job Market Trends
 * Popular Industries & Companies
